@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "caveman-commit": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-commit/SKILL.md",
+      "computedHash": "f028652defd5fdeddcce2994083cb1a7b201ee827bba8e2495546ee159fca3de"
+    },
+    "clean-ddd-hexagonal": {
+      "source": "ccheney/robust-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clean-ddd-hexagonal/SKILL.md",
+      "computedHash": "3e2bcc45e58cd714b336e04c96544859d6577c4c6faf762cdf8ce3d02dbf9a79"
+    },
+    "ddd-tactical-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ddd-tactical-patterns/SKILL.md",
+      "computedHash": "7c828d3bb8a7080076675ef12db63839a963d92e3f5df87feae79c5bd4898c09"
+    },
+    "gof-patterns": {
+      "source": "grndlvl/software-patterns",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/gof-patterns/SKILL.md",
+      "computedHash": "d8bdbb7fd273da67fd6d9328fd983392f502dc55e7af12a74782d982f4c1487a"
+    },
+    "java-architect": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/java-architect/SKILL.md",
+      "computedHash": "7f202287a1ad819b41a9235b8bb570eed217a431e4e60d7196fd9330d52001c2"
+    },
+    "java-coding-standards": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "skillPath": "skills/java-coding-standards/SKILL.md",
+      "computedHash": "3d6574c4fc1bb4d4882d333aa4d643fc5e42d696af1987c5fe44eb1e3dfffca6"
+    },
+    "java-junit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/java-junit/SKILL.md",
+      "computedHash": "fbf3cb0d47ffb44bdb6e1ebcc4d89dd7083208efdfc5b88f316c8bc2b58250b5"
+    },
+    "java-maven": {
+      "source": "pluginagentmarketplace/custom-plugin-java",
+      "sourceType": "github",
+      "skillPath": "skills/java-maven/SKILL.md",
+      "computedHash": "7128cd4b59cc52c661a6a209af74063e1fc6523b70abaf19f28c885ed085c01b"
+    },
+    "java-testing": {
+      "source": "pluginagentmarketplace/custom-plugin-java",
+      "sourceType": "github",
+      "skillPath": "skills/java-testing/SKILL.md",
+      "computedHash": "e58bdbcc271dfc689ce8b67c54a6dade5bcfb7c2c68e2615be2b39b8915ac1a0"
+    },
+    "solid-principles": {
+      "source": "thebushidocollective/han",
+      "sourceType": "github",
+      "skillPath": "plugins/core/skills/solid-principles/SKILL.md",
+      "computedHash": "3188df08407dd45dddbed592cb27e8c156f802999f88c9ad08b0fbf090f220bb"
+    },
+    "tactical-ddd": {
+      "source": "tech-leads-club/agent-skills",
+      "sourceType": "github",
+      "skillPath": "packages/skills-catalog/skills/(architecture)/tactical-ddd/SKILL.md",
+      "computedHash": "ededee222513ddf4378d6c199990066cd9e47deb868a662d1e0ced68c2dddbfc"
+    },
+    "tdd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/tdd/SKILL.md",
+      "computedHash": "78b31b2120c5fe7aced1cebfd4c7c94acb0037fd4f89c83c67584414aa4173bd"
+    }
+  }
+}
